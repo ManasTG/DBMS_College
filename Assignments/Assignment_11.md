@@ -13,7 +13,7 @@
 ## 10. Display employee name, sal, comm and net pay for those employees whose net pay are greater than or equal to any other employee salary of the company?
 ---
 
-# Table Update
+# Table Update 
 ```sql
 CREATE TABLE emp_cp3 AS SELECT * FROM emp;
 ```
